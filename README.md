@@ -2,6 +2,9 @@
 
 A simple command-line interface to manage tasks, storing them in a JSON file.
 
+# Project URL
+https://roadmap.sh/projects/task-tracker
+
 ## Requirements
 - Python 3.6+
 - No external libraries
